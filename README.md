@@ -1,2 +1,2 @@
 # sudoku
-Simple Sudoku solver written in Python using backtracking
+A simple Sudoku solver written in Python using backtracking
